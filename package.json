@@ -1,6 +1,6 @@
 {
   "name": "angular-pretty-bytes",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Pretty bytes filter for AngularJS: 1337 → 1.34 kB.",
   "main": "angular-pretty-bytes.js",
   "scripts": {

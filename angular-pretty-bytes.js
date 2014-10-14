@@ -1,4 +1,4 @@
-/*! Angular pretty-bytes v0.0.0 | © 2014 Greg Bergé | License MIT */
+/*! Angular pretty-bytes v1.0.0 | © 2014 Greg Bergé | License MIT */
 (function (window, angular, undefined) { 'use strict';
 
   /**

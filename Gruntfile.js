@@ -5,11 +5,11 @@ module.exports = function (grunt) {
             default: {
                 options: {
                     preserveComments: 'some',
-                    sourceMap: 'angular-clickout.min.map',
-                    sourceMappingURL: 'angular-clickout.min.map'
+                    sourceMap: 'angular-pretty-bytes.min.map',
+                    sourceMappingURL: 'angular-pretty-bytes.min.map'
                 },
                 files: {
-                    'angular-clickout.min.js': 'angular-clickout.js'
+                    'angular-pretty-bytes.min.js': 'angular-pretty-bytes.js'
                 }
             }
         }
